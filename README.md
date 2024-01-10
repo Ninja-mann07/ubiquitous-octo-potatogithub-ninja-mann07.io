@@ -1,0 +1,1 @@
+1-url-httpsapigithubcomreposgithubdevelopergithubcompages-status-built-cname-developergithubcom-custom_404-false-html_url-httpsdevelopergithubcom-source-branch-master-path-public-true-https_certificate-state-approved-description-certificate-is-approved-domains-developergithubcom-expires_at-2021-05-22-https_enforced-true-git
